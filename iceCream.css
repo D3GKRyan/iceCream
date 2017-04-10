@@ -1,0 +1,56 @@
+#tablecenter {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#darkChocolate{
+  background-image:url("images/darkChocolate.jpg");
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+  color :#000000;
+}
+#whiteChocolateRaspberry{
+  background-image:url("images/whiteChocolateRaspberry.jpg")
+  ;
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+  color :#000000;
+}
+#chocolateChip{
+  background-image:url("images/chocolateChip.jpg");
+  background-size: cover;
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+  color :#000000;
+}
+#peppermint{
+  background-image:url("images/peppermint.jpg");
+  background-repeat : no-repeat;
+  background-size: cover;
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+  color :#000000;
+}
+#cookies{
+  background-image:url("images/cookies.jpg");
+  background-repeat : no-repeat;
+  background-size: cover;
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+  color :#000000;
+}
+th{
+  background-color: teal;
+}
+
+td {
+  background-color: #ffccff;
+  text-align : center;
+  font-size: 15px;
+  border: 1px solid #000000;
+}
